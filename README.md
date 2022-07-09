@@ -1,9 +1,9 @@
 # 123.hp.com/setup
 
 
-[![123.hp.com/setup](get-start.png)](http://hp123-setup.s3-website-us-west-1.amazonaws.com)
+[![123.hp.com/setup](gett-started.png)](http://hp123-setup.s3-website-us-west-1.amazonaws.com)
 
-HP Printers are affordable home printers that generate extraordinary quality documents and photos. These printers are easy to set up and use. All you need is to download the driver software and install the software on your device. To download and install hp printer driver software visit 123.hp.com/setup and here you will also get a complete setup guide.
+HP Printers are affordable home printers that generate extraordinary quality documents and photos. These printers are easy to set up and use. All you need is to download the driver software and install the software on your device. To download and install hp printer driver software visit [123.hp.com/setup](https://github.com/hp-com-setupp/123.hp.com-setup/) and here you will also get a complete setup guide.
 
 
 
@@ -11,7 +11,7 @@ HP Printers are affordable home printers that generate extraordinary quality doc
 
 **Follow the given instruction step-by-step to download HP Printer driver file easily:**
 
-* Visit Hp printer website: 123.hp.com/setup using your web browser.
+* Visit Hp printer website: [123.hp.com/setup](https://github.com/hp-com-setupp/123.hp.com-setup/) using your web browser.
 * Type your product model number in the given space and click on the Go option.
 * Select your preferred operating system. 
 * After that, you will see a Download button, click on it.
@@ -37,7 +37,7 @@ HP Printers are affordable home printers that generate extraordinary quality doc
 **Installation steps for wireless canon printer setup are given below:**
 
 * Open and start the printer and find the WPS button on the Wi-Fi router.
-* From the 123.hp.com/setup website, download printer drivers on Mac.
+* From the [123.hp.com/setup](https://github.com/hp-com-setupp/123.hp.com-setup/) website, download printer drivers on Mac.
 * Open the file and follow along with further steps.
 * Press WPS button WIFI and then, press the OK button on the hp printer.
 * It will automatically connect using the network.
